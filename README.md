@@ -1,2 +1,2 @@
 # Analisador-de-notas
-Analisa notas e faz uma análise do resultado
+Coleta dados das notas e faz uma análise do resultado
